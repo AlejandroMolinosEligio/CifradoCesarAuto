@@ -22,8 +22,8 @@ El sistema detecta el idioma más probable comparando el resultado con diccionar
 Asegurate de tener en el mismo directorio:
 
 - `Cesar.py` – script principal.
-- `diccES.txt` – listado de palabras en español (una por línea).
-- `diccEN.txt` – listado de palabras en inglés (una por línea).
+- `diccES.txt` – listado de palabras en español (una por línea). [diccionario-espanol-txt](https://github.com/JorgeDuenasLerin/diccionario-espanol-txt)
+- `diccEN.txt` – listado de palabras en inglés (una por línea). [english-words](https://github.com/dwyl/english-words)
 
 ---
 
