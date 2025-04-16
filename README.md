@@ -3,7 +3,7 @@
 Este proyecto implementa un script en Python que permite **cifrar** texto utilizando el clásico **cifrado César**, y además **descifrar automáticamente** sin conocer el salto ni el alfabeto.  
 El sistema detecta el idioma más probable comparando el resultado con diccionarios de palabras en **español** e **inglés**.
 
-![Header](images/Header.png)
+![Header](./images/Header.png)
 
 ---
 
@@ -56,7 +56,7 @@ python Cesar.py
 
 - El resultado se muestra en pantalla.
 
-![CifradoCesar](images/Cifrado.png)
+![CifradoCesar](./images/Cifrado.png)
 
 ## 🔓 Descifrado Automático
 - El script pregunta si conocés el salto.
@@ -69,7 +69,7 @@ python Cesar.py
 
 - Guarda el log completo en CesarSolution.log.
 
-![DescifradoCesar](images/Descifrado.png)
+![DescifradoCesar](./images/Descifrado.png)
 
 ## 🧠 Cómo funciona el descifrado
 - El script prueba todas las rotaciones posibles en ambos alfabetos.
