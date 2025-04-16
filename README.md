@@ -35,7 +35,7 @@ Asegurate de tener en el mismo directorio:
 
 ## ▶️ Uso
 
-Ejecutá el script desde terminal:
+Ejecutas el script desde terminal:
 
 ```bash
 python Cesar.py
@@ -48,22 +48,22 @@ python Cesar.py
 ---
 
 ## 🔐 Cifrado
-- Elegís el alfabeto: Español (ES) o Inglés (EN).
+- Eliges el alfabeto: Español (ES) o Inglés (EN).
 
-- Ingresás el texto a cifrar.
+- Ingresas el texto a cifrar.
 
-- Definís el salto deseado.
+- Defines el salto deseado.
 
 - El resultado se muestra en pantalla.
 
 ![CifradoCesar](./images/Cifrado.png)
 
 ## 🔓 Descifrado Automático
-- El script pregunta si conocés el salto.
+- El script pregunta si conoces el salto.
 
-- Luego pregunta si conocés el alfabeto.
+- Luego pregunta si conoces el alfabeto.
 
-- Si no sabés ninguno, intenta todas las combinaciones posibles.
+- Si no sabes ninguno, intenta todas las combinaciones posibles.
 
 - Muestra los resultados más probables con coincidencias léxicas.
 
